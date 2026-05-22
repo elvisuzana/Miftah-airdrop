@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Grass Network",
+        "type": "DePIN Node",
+        "status": "Mainnet Phase",
+        "daily_check": true
+    },
+    {
+        "name": "Tea Protocol",
+        "type": "Web3 Dev Platform",
+        "status": "Testnet Incentivized",
+        "daily_check": false
+    },
+    {
+        "name": "Interlink Network",
+        "type": "Data Protocol",
+        "status": "Early Alpha",
+        "daily_check": true
+    },
+    {
+        "name": "Billions Network (OpenClaw)",
+        "type": "Airdrop Automation",
+        "status": "Configuring Task",
+        "daily_check": true
+    }
+]
